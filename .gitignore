@@ -1,0 +1,63 @@
+# Unity generated folders
+Temp/
+Obj/
+Build/
+Builds/
+Library/
+Logs/
+AssetData/
+UnityGenerated/
+
+# Unity generated asset database
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Visual Studio cache/workspace files
+.vs/
+.vscode/
+*.csproj.user
+
+# Crashlytics
+crashlytics-build/
+fabric.properties
+
+# Icon cache
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Unity Asset Store
+Assets/AssetStoreTools*
+
+# Unity Package Manager
+Packages/packages-lock.json
+
+# Unity Editor settings
+ProjectSettings/ProjectVersion.txt
